@@ -23,7 +23,7 @@ Bem-vindo(a) ao meu perfil do GitHub! :blush:
 * Trabalho como Aprendiz de DS na empresa Robert Bosch LTDA;
 * Estudo Desenvolvimento de Sistemas na Escola Senai Roberto Mange.
 
-## :computer::nerd_face: Estou aprendendo:
+Estou aprendendo:
 <img
   width="40" 
   height="40"
