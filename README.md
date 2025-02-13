@@ -3,9 +3,9 @@
 -->
 
 <img
-  src="https://github.com/user-attachments/assets/6650f855-14fd-4307-986f-eecad9560349" 
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6ef5fa&section=header&reversal=true" 
 />
-
 ## Oi :wave:, eu sou a Rayssa!
 
 Bem-vindo(a) ao meu perfil do GitHub! :blush:
@@ -54,7 +54,7 @@ Bem-vindo(a) ao meu perfil do GitHub! :blush:
   height="40" 
   align="center" 
   style="padding-right: 100px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6ef5fa&section=header&reversal=true" 
 /> 
 <img 
   width="50" 
@@ -84,5 +84,6 @@ Bem-vindo(a) ao meu perfil do GitHub! :blush:
 </a>
 
 <img
-  src="https://github.com/user-attachments/assets/b4c42bcf-7d69-4a72-9137-c7f281eddd87"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6ef5fa&section=footer&reversal=true"
 />
