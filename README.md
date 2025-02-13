@@ -2,6 +2,10 @@
 **RAYsSA-Chaves/RAYsSA-Chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<img
+  src="https://github.com/user-attachments/assets/6650f855-14fd-4307-986f-eecad9560349" 
+/>
+
 ## Oi :wave:, eu sou a Rayssa!
 
 Bem-vindo(a) ao meu perfil do GitHub! :blush:
@@ -18,12 +22,12 @@ Bem-vindo(a) ao meu perfil do GitHub! :blush:
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-  
+
 ## Atualmente
 * Trabalho como Aprendiz de DS na empresa Robert Bosch LTDA;
 * Estudo Desenvolvimento de Sistemas na Escola Senai Roberto Mange.
 
-Estou aprendendo:
+## Estou aprendendo:
 <img
   width="40" 
   height="40"
@@ -31,47 +35,54 @@ Estou aprendendo:
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 /> 
+<img 
+  width="40" 
+  height="40" 
+  align="center" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/> 
+<img 
+  width="40" 
+  height="40" 
+  align="center" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/> 
+<img 
+  width="40" 
+  height="40" 
+  align="center" 
+  style="padding-right: 100px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/> 
+<img 
+  width="50" 
+  height="45" 
+  align="center" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+  width="35%"
+  src="https://github.com/user-attachments/assets/a3f5d1ab-8140-43c5-9e9f-87f02f32132d"
+/>
+
+## Estatísticas
+<a href="https://github.com/RAYsSA-Chaves">
   <img 
-    width="40" 
-    height="40" 
-    align="center" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  /> 
-  <img 
-    width="40" 
-    height="40" 
-    align="center" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  /> 
-  <img 
-    width="40" 
-    height="40" 
-    align="center" 
-    style="padding-right: 100px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  /> 
-  <img 
-    width="50" 
-    height="45" 
-    align="center" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    height="170" 
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
   />
+  <img 
+    height="160" 
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br"
+  /> 
+</a>
 
-![cat-typing (1)](https://github.com/user-attachments/assets/a3f5d1ab-8140-43c5-9e9f-87f02f32132d)
----
-
-  <a href="https://github.com/RAYsSA-Chaves">
-    <img 
-      height="140" 
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br"
-    /> 
-    <img 
-      height="150" 
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
-    />
-  </a>
+<img
+  src="https://github.com/user-attachments/assets/b4c42bcf-7d69-4a72-9137-c7f281eddd87"
+/>
