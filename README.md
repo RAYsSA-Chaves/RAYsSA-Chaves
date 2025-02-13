@@ -4,7 +4,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6ef5fa&section=header&reversal=true" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6ef5fa&section=header&reversal=true" 
 />
 ## Oi :wave:, eu sou a Rayssa!
 
