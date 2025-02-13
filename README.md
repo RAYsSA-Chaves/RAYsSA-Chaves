@@ -72,7 +72,7 @@ Bem-vindo(a) ao meu perfil do GitHub! :blush:
 ## Estatísticas
 <a href="https://github.com/RAYsSA-Chaves">
   <img 
-    height="170" 
+    height="160" 
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
   />
