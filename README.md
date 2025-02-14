@@ -29,45 +29,30 @@ Bem-vindo(a) ao meu perfil do GitHub! :blush:
 
 ## Estou aprendendo:
 <img
-  width="40" 
-  height="40"
-  align="center" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
 /> 
 <img 
-  width="40" 
-  height="40" 
-  align="center" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" 
 /> 
 <img 
-  width="40" 
-  height="40" 
-  align="center" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" 
 /> 
 <img 
-  width="40" 
-  height="40" 
-  align="center" 
-  style="padding-right: 100px;"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6ef5fa&section=header&reversal=true" 
-/> 
-<img 
-  width="50" 
-  height="45" 
-  align="center" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
 />
+<img 
+  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
+/> 
+<img 
+  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" 
+/> 
+
 
 <img
   width="35%"
   src="https://github.com/user-attachments/assets/a3f5d1ab-8140-43c5-9e9f-87f02f32132d"
 />
+
 
 ## Estatísticas
 <a href="https://github.com/RAYsSA-Chaves">
