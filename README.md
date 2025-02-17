@@ -4,11 +4,12 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6ef5fa&section=header&reversal=true" 
+  src="https://github.com/user-attachments/assets/c279d5bc-5dba-4848-ae94-9b359f967192"
 />
-## Oi :wave:, eu sou a Rayssa!
+## Sobre mim
 
 Bem-vindo(a) ao meu perfil do GitHub! :blush:
+* Me chamo Rayssa;
 * Tenho 19 anos;
 * Moro em Campinas-SP;
 * Sou apaixonada por criação com Figma e Front End :heart:;
