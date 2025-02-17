@@ -4,11 +4,10 @@
 
 <img
   width="100%"
-  src="https://github.com/user-attachments/assets/c279d5bc-5dba-4848-ae94-9b359f967192"
+  src="https://github.com/user-attachments/assets/8d53d161-b62e-4826-b6cf-22acf482e4bc"
 />
-## Sobre mim
 
-Bem-vindo(a) ao meu perfil do GitHub! :blush:
+## Bem-vindo(a)!
 * Me chamo Rayssa;
 * Tenho 19 anos;
 * Moro em Campinas-SP;
