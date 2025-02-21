@@ -57,12 +57,12 @@
 ## Estatísticas
 <a href="https://github.com/RAYsSA-Chaves">
   <img 
-    width="40%"
+    width="50%"
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
   />
   <img 
-    width="55%" 
+    width="45%" 
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br"
   /> 
@@ -70,5 +70,5 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6ef5fa&section=footer&reversal=true"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20b2aa&section=footer&reversal=false"
 />
