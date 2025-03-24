@@ -6,10 +6,10 @@
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2ca2a2&fontAlignY=100&descAlign=62&textBg=false&reversal=true"
 />
-
 <img
   width="100%"
-  src="https://github.com/user-attachments/assets/d566a2fa-2eb8-4eba-bea7-d11507d61a38"
+  height="10%"
+  src="https://github.com/user-attachments/assets/d9e3c696-a46b-4af5-ae6b-410475d94008"
 />
 
 ## Bem-vindo(a)!
