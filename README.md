@@ -4,7 +4,12 @@
 
 <img
   width="100%"
-  src="https://github.com/user-attachments/assets/ed4b5406-6b9a-43a1-b8f5-eb1d9e3443f1"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2ca2a2&fontAlignY=100&descAlign=62&textBg=false&reversal=true"
+/>
+
+<img
+  width="100%"
+  src="https://github.com/user-attachments/assets/b9570073-b780-44cb-bb9e-a89d87cefa90"
 />
 
 ## Bem-vindo(a)!
