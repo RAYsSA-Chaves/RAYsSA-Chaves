@@ -59,7 +59,7 @@
   <img 
     width="50%"
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true
   />
   <img 
     width="45%" 
