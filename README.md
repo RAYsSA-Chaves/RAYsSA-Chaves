@@ -4,7 +4,7 @@
 
 <img
   width="100%"
-  src="https://github.com/user-attachments/assets/8d53d161-b62e-4826-b6cf-22acf482e4bc"
+  src="https://github.com/user-attachments/assets/ed4b5406-6b9a-43a1-b8f5-eb1d9e3443f1"
 />
 
 ## Bem-vindo(a)!
