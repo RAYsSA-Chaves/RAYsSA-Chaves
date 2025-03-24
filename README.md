@@ -9,7 +9,7 @@
 
 <img
   width="100%"
-  src="https://github.com/user-attachments/assets/b9570073-b780-44cb-bb9e-a89d87cefa90"
+  src="https://github.com/user-attachments/assets/d566a2fa-2eb8-4eba-bea7-d11507d61a38"
 />
 
 ## Bem-vindo(a)!
