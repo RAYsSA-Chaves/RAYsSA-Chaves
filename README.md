@@ -6,11 +6,11 @@
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2ca2a2&fontAlignY=100&descAlign=62&textBg=false&reversal=true"
 />
-<img
-  width="100%"
-  height="10%"
-  src="https://github.com/user-attachments/assets/49c8c9f7-7f1d-4e77-83ba-cc834dc6da96"
-/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&size=35&pause=1000&color=20D7C3&center=true&vCenter=true&height=150&lines=%3C%F0%9F%91%8B+Hi%2C+I'm+Ray!%2F%3E"/>
+</div>
+
 
 ## Bem-vindo(a)!
 * Me chamo Rayssa;
@@ -63,12 +63,10 @@
 <a href="https://github.com/RAYsSA-Chaves">
   <img 
     width="50%"
-    align="center"
     src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true"
   />
   <img 
     width="45%" 
-    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br"
   /> 
 </a>
