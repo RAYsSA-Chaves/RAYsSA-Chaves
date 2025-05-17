@@ -29,7 +29,7 @@
   </a>
 
 ## Atualmente
-* Trabalho como Aprendiz de DS na empresa Robert Bosch LTDA;
+* Trabalho como Aprendiz de DS na Bosch Campinas;
 * Estudo Desenvolvimento de Sistemas na Escola Senai Roberto Mange.
 
 ## Estou aprendendo:
