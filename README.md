@@ -14,7 +14,7 @@
 
 ## Bem-vindo(a)!
 * Me chamo Rayssa;
-* Tenho 19 anos;
+* Tenho 20 anos;
 * Moro em Campinas-SP;
 * Sou apaixonada por criação com Figma e Front End :heart:;
 * Iniciante no universo da programação;
@@ -45,13 +45,15 @@
 <img 
   src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" 
 />
+<img
+  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+/>
 <img 
   src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" 
 /> 
 <img 
   src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" 
-/> 
-
+/>
 
 <img
   width="35%"
