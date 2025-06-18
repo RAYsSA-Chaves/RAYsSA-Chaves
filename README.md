@@ -19,14 +19,6 @@
 * Sou apaixonada por criação com Figma e Front End :heart:;
 * Iniciante no universo da programação;
 * Compartilharei minhas experiências, projetos e dicas de estudo, vem comigo!
-* Você pode falar comigo através de:
-  <a href="rayssa.ccmelo@gmail.com">
-    <img 
-      width="70" 
-      align="center"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
 
 ## Atualmente
 * Trabalho como Aprendiz de DS na Bosch Campinas;
