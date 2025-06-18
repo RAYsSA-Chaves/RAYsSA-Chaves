@@ -56,11 +56,11 @@
 ## Estatísticas
 <a href="https://github.com/RAYsSA-Chaves">
   <img 
-    width="45%"
+    width="50%"
     src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true"
   />
   <img 
-    width="45%" 
+    width="40%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br"
   /> 
 </a>
