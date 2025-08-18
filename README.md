@@ -6,7 +6,7 @@
 />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=800&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hello+there+!;Welcome+to+My+Profile+!;I'm+Ray+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=800&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hello+!;Be+welcome+!;I'm+Ray+!" alt="Typing SVG" />
 </div> 
 
 <br/>
