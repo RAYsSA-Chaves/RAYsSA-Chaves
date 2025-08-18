@@ -1,6 +1,4 @@
-<!--
-**RAYsSA-Chaves/RAYsSA-Chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **RAYsSA-Chaves/RAYsSA-Chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <img
   width="100%"
@@ -8,11 +6,12 @@
 />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+mono&weight=5000&size=25&duration=4000&pause=600&color=0CB0AB&center=true&vCenter=true&width=435&height=120&lines=%3C%F0%9F%91%8B+Hi%2C+I'm+Ray!%2F%3E">
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=800&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hello+there+!;Welcome+to+My+Profile+!;I'm+Ray+!" alt="Typing SVG" />
+</div> 
 
+<br/>
 
-## Bem-vindo(a)!
+## <img alt="GIF" src="https://github.com/user-attachments/assets/0e0b9acd-6e51-4f8d-b29b-2ea6452d7133" width="30px" /> Be welcome
 * Me chamo Rayssa;
 * Tenho 20 anos;
 * Moro em Campinas-SP;
@@ -65,7 +64,4 @@
   /> 
 </a>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20b2aa&section=footer&reversal=false"
-/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=70&section=footer"/>
