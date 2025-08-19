@@ -11,7 +11,7 @@
 
 <br/>
 
-## <img alt="GIF" src="https://github.com/user-attachments/assets/0e0b9acd-6e51-4f8d-b29b-2ea6452d7133" width="30px" /> Be welcome
+## <img alt="GIF" src="https://github.com/user-attachments/assets/c14a8b85-c016-4efb-a746-d7d246420cd1" width="30px"/> Be welcome
 * Me chamo Rayssa;
 * Tenho 20 anos;
 * Moro em Campinas-SP;
