@@ -40,10 +40,10 @@
 ## Estatísticas
 <a href="https://github.com/RAYsSA-Chaves">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true" width="400"
+    src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true" width="420"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br" width="300"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br" width="320"
   /> 
 </a>
 
