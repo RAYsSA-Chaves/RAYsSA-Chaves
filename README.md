@@ -31,7 +31,7 @@
   <h3>Others</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" alt="Others" />
   
-  <img src="https://github.com/user-attachments/assets/1b2d4347-ab4e-4d49-b3dc-764553cd99ce" width="150px" style="margin-left: 20px;" />
+  <img src="https://github.com/user-attachments/assets/1b2d4347-ab4e-4d49-b3dc-764553cd99ce" width="150px" style="margin-left: 50px;" />
 </p>
 
 <br/>
