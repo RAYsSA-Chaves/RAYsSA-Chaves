@@ -24,15 +24,15 @@
 <!-- Seção linguagens e ferramentas -->
 ## <img alt="GIF" src="https://github.com/user-attachments/assets/f90bcce4-5e69-47ae-b0dd-ec6b1abc7c33" width="25px"/> Languages and Tools
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div>
-    <h3>Frontend</h3>
+  <div style="width: fit-content">
+    <h3 style="width: fit-content">Frontend</h3>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&perline=10" alt="Frontend" />
-    <h3>Backend</h3>
+    <h3 style="width: fit-content">Backend</h3>
     <img src="https://skillicons.dev/icons?i=java,python,django,fastapi,nodejs&perline=10" alt="Backend" />
-    <h3>Others</h3>
+    <h3 style="width: fit-content">Others</h3>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" alt="Others" />
   </div>
-  <div style="flex-shrink: 0;">
+  <div>
     <img src="https://github.com/user-attachments/assets/1b2d4347-ab4e-4d49-b3dc-764553cd99ce" width="150px" />
   </div>
 </div>
