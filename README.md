@@ -40,7 +40,7 @@
 <br/>
 
 <!-- Seção esta-->
-## Estatísticas
+## Stats
 <a href="https://github.com/RAYsSA-Chaves">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true" width="450"
