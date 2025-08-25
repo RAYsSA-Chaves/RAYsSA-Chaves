@@ -14,7 +14,7 @@
 <br/>
 
 <!-- Seção infos -->
-## <img alt="GIF" src="https://github.com/user-attachments/assets/87d40814-dbc7-41eb-9498-5e89d593fb61" width="25px"/> A little about me
+## <img alt="GIF" src="https://github.com/user-attachments/assets/87d40814-dbc7-41eb-9498-5e89d593fb61" width="25px"/> A little About Me
 * 💼 I work at **Bosch Brazil**;
 * 👨‍🎓 I'm studying **_Systems Development_** at **SENAI** "Roberto Mange";
 * 💻 I'm a passionate beginner in the programming universe;
