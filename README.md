@@ -21,14 +21,13 @@
 
 <br/>
 
-<div>
-  <img align="right" width="20%" src="https://github.com/user-attachments/assets/1b2d4347-ab4e-4d49-b3dc-764553cd99ce">
-</div>
-
 <!-- Seção linguagens e ferramentas -->
 ## <img alt="GIF" src="https://github.com/user-attachments/assets/f90bcce4-5e69-47ae-b0dd-ec6b1abc7c33" width="25px"/> Languages and Tools
 <h3 style="width: fit-content">Frontend</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&perline=10" alt="Frontend" />
+<div>
+  <img align="right" width="15%" src="https://github.com/user-attachments/assets/1b2d4347-ab4e-4d49-b3dc-764553cd99ce">
+</div>
 <h3 style="width: fit-content">Backend</h3>
 <img src="https://skillicons.dev/icons?i=java,python,django,fastapi,nodejs&perline=10" alt="Backend" />
 <h3 style="width: fit-content">Others</h3>
