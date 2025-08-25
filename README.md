@@ -26,7 +26,7 @@
 <h3 style="width: fit-content">Frontend</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&perline=10" alt="Frontend" />
 <div>
-  <img align="right" width="15%" src="https://github.com/user-attachments/assets/1b2d4347-ab4e-4d49-b3dc-764553cd99ce">
+  <img align="right" width="20%" src="https://github.com/user-attachments/assets/1b2d4347-ab4e-4d49-b3dc-764553cd99ce">
 </div>
 <h3 style="width: fit-content">Backend</h3>
 <img src="https://skillicons.dev/icons?i=java,python,django,fastapi,nodejs&perline=10" alt="Backend" />
@@ -39,10 +39,10 @@
 ## Stats
 <a href="https://github.com/RAYsSA-Chaves">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true" width="450"
+    src="https://github-readme-stats.vercel.app/api?username=RAYsSA-Chaves&theme=radical&show_icons=true&hide_border=false&count_private=true""
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br" width="350"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAYsSA-Chaves&layout=compact&langs_count=7&theme=radical&custom_title=Tecnologias&locale=pt-br" width="35%"
   /> 
 </a>
 
